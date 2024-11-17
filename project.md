@@ -3,7 +3,7 @@
 - [x] Plan and document Game Theme
 - [x] Plan and document Game rules 
 - [x] Plan and document Game dynamics 
-- [ ] Start Project
+- [x] Start Project
 - [ ] Create Game Loop following Game dynamics 
 - [ ] Apply Game rules in the Loop
 - [ ] Finish playable first V1 of the game
@@ -27,7 +27,7 @@
 
 
 ### Tech Stack -----------------
-*Vite[TS] - React.js + Redux | Html+CSS* <!-- If we need then can add css library  -->
+*Vite[TS] - React.js + Redux + React Router | Html+CSS* <!-- If we need then can add css library  -->
 
 
 
